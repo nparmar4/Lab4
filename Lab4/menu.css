@@ -13,6 +13,7 @@
 .menu ul li {
     float: left; /* This makes each list item float to the left */
     margin-right: 20px; /* Adds some space between the menu items */
+    
 }
 
 .menu ul li a {
